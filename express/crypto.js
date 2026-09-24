@@ -7,3 +7,4 @@ const hash = crypto
 
 console.log(hash);
 console.log("santhoshhhhh is veryyy erripukkk")
+console.log("ami is veryy pretty and smart unlike santhosh")
